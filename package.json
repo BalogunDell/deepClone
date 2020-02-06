@@ -1,0 +1,14 @@
+{
+  "name": "spidergap",
+  "version": "1.0.0",
+  "description": "Function to deep clone or deep copy an object",
+  "main": "deepClone.js",
+  "scripts": {
+    "test": "jest --collectCoverage"
+  },
+  "author": "Abiodun Delight Balogun",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}
